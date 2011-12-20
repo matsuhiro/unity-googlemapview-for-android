@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/MapView.cs">
+    <Files>
+      <File FileName="Assets/Plugins/MapView.cs" Line="51" Column="15" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets/Sample/SampleScript.cs" Line="24" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True" />
+          <Node name="Assembly-CSharp-firstpass" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
