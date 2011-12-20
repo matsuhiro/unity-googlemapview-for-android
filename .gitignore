@@ -1,9 +1,9 @@
-*.csproj
-*.pidb
-*.sln
+Unity/*.csproj
+Unity/*.pidb
+Unity/*.sln
 .DS_Store
-Library/*
-Temp
+Unity/Library/*
+Unity/Temp
 !EditorBuildSettings.asset
 !InputManager.asset
 !ProjectSettings.asset
