@@ -15,3 +15,8 @@ MapView.csのlocationTestをtrueにしてSetLocationTestを呼び出すと任意
 GetComponent<MapView> ().locationTest = true;
 GetComponent<MapView> ().SetLocationTest (float latitude, float longitude);
 </pre>
+
+h1. Unityプロジェクトを動かしたり開発をするときは必ずGoogleMapAPIKeyを取得してください
+
+Unityプロジェクトの「Plugins/Android/res/layout/map」にGoogleMapAPIKeyを設定する所があります。
+Keyをセットしないと動作しませんので気をつけてください。
