@@ -1,20 +1,14 @@
 h1. UnityAndroidでGoogleMapを表示
 
-MapView.csのSetLocationをコルーチンで呼び出すと自分の現在値を取得し、GoogleMapに表示することができます。
+MapView.csのSetLocationを呼び出すと自分の現在値を取得し、GoogleMapに表示することができます。
 
 <pre>
-
 GetComponent<MapView> ().SetLocation();
-
 </pre>
 
-でロケーションを取得することが出来、GoogleMaoに表示されます。
 
-MapViewのlocationTestをtrueにして
+MapView.csのlocationTestをtrueにしてSetLocationTestを呼び出すと任意のロケーションをGoogleMapに表示できます。
 <pre>
-
+GetComponent<MapView> ().locationTest = true;
 GetComponent<MapView> ().SetLocationTest (float latitude, float longitude);
-
 </pre>
-
-を呼び出すと任意のロケーションをGoogleMapに表示できます。
