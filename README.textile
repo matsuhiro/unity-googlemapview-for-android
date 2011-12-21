@@ -17,4 +17,4 @@ GetComponent<MapView> ().SetLocationTest (float latitude, float longitude);
 
 </pre>
 
-を呼び出すと任意のロケーションをGoogleMapに表示できます
+を呼び出すと任意のロケーションをGoogleMapに表示できます。
