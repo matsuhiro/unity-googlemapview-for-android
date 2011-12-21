@@ -1,5 +1,8 @@
 h1. UnityAndroidでGoogleMapを表示
 
+ !https://lh5.ggpht.com/piFVTY4oxiakGh-t6mUZewsEdlk-XTpqvE5l1BTsDp2MGGtiviEltCO50xJZ3IBZsg! 
+
+
 MapView.csのSetLocationを呼び出すと自分の現在値を取得し、GoogleMapに表示することができます。
 
 <pre>
